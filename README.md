@@ -4,7 +4,7 @@
 
 <!-- **domricardodev/domricardodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-    I am a software developer student with a passion for building scalable and maintainable software. I have experience working with a variety of technologies and frameworks, including Node.js, Python, React, HTML,       CSS, and MySQL.
+    I am a software developer student with a passion for building scalable and maintainable software. I have experience working with a variety of technologies and frameworks, including Node.js, Python, React, HTML,CSS, and MySQL.
 
 - 🔭 I’m currently working on ...
 
